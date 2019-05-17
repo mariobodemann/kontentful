@@ -6,3 +6,4 @@ build
 
 # Ignore intellij idea folders
 .idea/
+out/
